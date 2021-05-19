@@ -1,4 +1,7 @@
 #testnew!!!!
+
+#’Ç‰Á1ŒÂ–Ú
+
 #ifndef _CD_DEF_H
 #define _CD_DEF_H
 
